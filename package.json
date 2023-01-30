@@ -1,0 +1,29 @@
+{
+  "name": "basic-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+
+  },
+  "dependencies": {
+    "@next/font": "13.1.6",
+    "@storyblok/react": "^2.0.8",
+    "@tailwindcss/line-clamp": "^0.4.2",
+    "axios": "^1.2.6",
+    "next": "13.1.6",
+    "next-pwa": "^5.6.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "storyblok-rich-text-react-renderer": "^2.6.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "node-dev": "^3.0.0",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4"
+  }
+}
