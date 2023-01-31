@@ -1,7 +1,13 @@
 {
-  "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
+  "/_app": "pages/_app.js",
   "/": "pages/index.js",
-  "/[...slug]": "pages/[...slug].js"
+  "/_document": "pages/_document.js",
+  "/[...slug]": "pages/[...slug].js",
+  "/en/404": "pages/en/404.html",
+  "/es/404": "pages/es/404.html",
+  "/en/500": "pages/en/500.html",
+  "/es/500": "pages/es/500.html",
+  "/en/_offline": "pages/en/_offline.html",
+  "/es/_offline": "pages/es/_offline.html"
 }
